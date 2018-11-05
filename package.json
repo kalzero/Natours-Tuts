@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for Natours",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kalzero/Natours-Tuts.git"
+  },
+  "author": "Calvin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kalzero/Natours-Tuts/issues"
+  },
+  "homepage": "https://github.com/kalzero/Natours-Tuts#readme",
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
+}
